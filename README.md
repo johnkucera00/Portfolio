@@ -16,11 +16,11 @@ MS Excel, MS PowerPoint, Adobe Photoshop, MS Publisher
 
 ## Computer Science Projects
 
-### (Java) [Multi-threaded Traffic Simulation GUI](./Multi-threadedTrafficSimulationGUI)
+### [Multi-threaded Traffic Simulation GUI](./Multi-threadedTrafficSimulationGUI) (Java)
 
-### (Python/HTML) [Python Flask - Login Validation Form Webpage](./LoginValidationWebpage)
+### [Python Flask - Login Validation Form Webpage](./LoginValidationWebpage) (Python/HTML)
 
-### (Java) [Parser & GUI Generator Application](./Parser&GUIGenerator)
+### [Parser & GUI Generator Application](./Parser&GUIGenerator) (Java)
 
 ## Technical Research Papers
 
