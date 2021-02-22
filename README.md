@@ -18,6 +18,8 @@ MS Excel, MS PowerPoint, Adobe Photoshop, MS Publisher
 UMD ECP (English Conversation Partners) Group Leader/Facilitator.
 Attended DC-Baltimore Perl Workshop in April 2019.
 
+
+
 **Computer Science Projects**
 
 **(Java) Multi-threaded Traffic Simulation GUI:**
