@@ -11,7 +11,7 @@ Java, Python, Python Flask, C++, HTML, CSS, C, some SQL, some Perl
 **IDEs I have experience with:**
 Netbeans, Visual Studio Code, Cloud9, Repl.it
 
-**Other Technical Applications I have experience with:**
+**Technical Tools/Applications I have experience with:**
 MS Excel, MS PowerPoint, Adobe Photoshop, MS Publisher
 
 **Volunteer Work/Events Attended:**
