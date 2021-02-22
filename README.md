@@ -18,7 +18,7 @@ Git, MS Excel, MS PowerPoint, Adobe Photoshop, MS Publisher
 
 ### [Multi-threaded Traffic Simulation GUI](./Multi-threadedTrafficSimulationGUI) (Java) (CMSC 335 Object-oriented and Concurrent Programming)
 
-This Java program constructs a GUI and live-updated animation that holds a Traffic Simulation. When compiled, 3 to 5 cars and 3 to 5 traffic lights are created as Threads and start running. When the cars run, they travel in a straight line at random speeds and their positions gets updated live in the GUI and animation. When the lights run, they change colors at fixed intervals. Cars will continue through green/yellow lights and stop at red lights.
+This program creates a traffic simulation GUI, using Java. We begin with 3-5 traffic lights and 3-5 cars which are all threads. The cars travel in a straight line at random speeds, their positions get updated live via the GUI and animation. The cars will start and stop according to the traffic lights, which are yellow (slow down), green (go), and red (stop).
 
 ### [Python Flask - Login Validation Form Webpage](./LoginValidationWebpage) (Python/HTML) (SDEV 300 Building Secure Python Applications)
 
