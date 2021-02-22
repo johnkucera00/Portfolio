@@ -12,7 +12,7 @@ Java, Python, Python Flask, C++, HTML, CSS, C, some SQL, some Perl
 Netbeans, Visual Studio Code, Cloud9, Repl.it
 
 **Tools/Applications:**
-MS Excel, MS PowerPoint, Adobe Photoshop, MS Publisher
+Git, MS Excel, MS PowerPoint, Adobe Photoshop, MS Publisher
 
 ## Computer Science Projects
 
@@ -22,9 +22,13 @@ MS Excel, MS PowerPoint, Adobe Photoshop, MS Publisher
 
 ### [Parser & GUI Generator Application](./Parser&GUIGenerator) (Java)
 
-## Technical Research Papers
+## Technical Papers
 
 ### [Vulnerability Memo for Security Devices](./VulnerabilityMemo.pdf)
+
+### [PC Build Manual](./PCBuildManual.pdf)
+
+### [Evolution of System Performance](./SystemPerformanceResearchPaper.pdf) (Research)
 
 ## Workshop
 
