@@ -24,7 +24,7 @@ Written in Java, this program uses multithreading to create a traffic simulation
 ### [Python Flask - Login Validation Form Webpage](./LoginValidationWebpage) (Python/HTML)
 #### SDEV 300 Building Secure Python Applications
 
-This program uses Python Flask with HTML to create a log in screen that prompts the user for username and password before granting access.  End user is allowed 15 attempts to log in - after which throttling will occur to block the IP address for a period of time before allowing for retries.  To accomplish all the requirements of this program, exception handling and maintenance of a database of IP addresses are utilized to process user inputs.  HTML elements (some egs here) are used to design the webpage.
+This program uses Python Flask with HTML to create a log in webpage that prompts the user for username and password before granting access. Client is allowed 15 attempts to log in, after which throttling will occur to block the IP address for a period of time before allowing for retries. Exception handling and maintenance of a database of IP addresses are utilized to process user inputs. HTML elements (some egs here) are used to design the webpage.
 
 ### [Parser & GUI Generator Application](./Parser&GUIGenerator) (Java)
 #### CMSC 330 Advanced Programming Languages
