@@ -41,7 +41,7 @@ I wrote a Vulnerability Memo on two IoT devices: a smart door lock and a smart s
 ### [PC Build Manual](./PCBuildManual.pdf) 
 #### CMIT 202 Fundamentals of Computer Troubleshooting
 
-Built 5 PCs using this manual.
+Wrote an Instructional Manual to building a PC from scratch. Built 5 PCs using this manual.
 
 ### [Evolution of System Performance](./SystemPerformance-ResearchPaper.pdf) (Research)
 #### CMIS 310 Computer Systems and Architecture
