@@ -36,7 +36,7 @@ Written in Java, this program uses recursive descent to parse a GUI definition l
 ### [Vulnerability Memo for Security Devices](./VulnerabilityMemo.pdf)
 #### CMIT 320 Network Security
 
-This written assignment involves writing a Vulnerability Memo on two IoT devices: a smart door lock and a smart security camera. Using CVE (Common Vulnerabilities and Exposures list) and NVD (NIST’s National Vulnerability Database), I first learned about the devices and their functions.  CVE and NVD helped me identify the devices’ vulnerabilities (their usage of insecure network protocols). Finally, in my paper, I suggested possible solutions to fix some of the weak points and strengthen the systems.
+This Vulnerability Memo reviews two IoT devices: a smart door lock and a smart security camera. Using CVE (Common Vulnerabilities and Exposures list) and NVD (NIST’s National Vulnerability Database), I first learned about the devices and their functions.  CVE and NVD helped me identify the devices’ vulnerabilities (their usage of insecure network protocols). Finally, in my paper, I suggested possible solutions to fix some of the weak points and strengthen the systems.
 
 ### [PC Build Manual](./PCBuildManual.pdf) 
 #### CMIT 202 Fundamentals of Computer Troubleshooting
@@ -46,7 +46,7 @@ This in-depth manual to building a PC from scratch contains steps for installing
 ### [Evolution of System Performance](./SystemPerformance-ResearchPaper.pdf) (Research)
 #### CMIS 310 Computer Systems and Architecture
 
-I wrote a research paper analyzing how evolution of computer technology has improved system performance. I researched RISC (Reduced Instruction Set Computer) and studied similarities and differences among its implementations over the past two decades. I also underlined the impact that pipelining, cache memory, and virtual memory had on system performance improvement when implemented with RISC.
+This research paper is an analysis of how computer technology has evolved over time to improve system performance.  My research was mainly on RISC (Reduced Instruction Set Computer).  I studied the similarities and differences among RISC implementations over the past two decades. I emphasized the impact of pipelining, cache memory, and virtual memory on system performance improvement when implemented with RISC.
 
 ## Workshop
 
@@ -55,3 +55,5 @@ I wrote a research paper analyzing how evolution of computer technology has impr
 ## Volunteer Work
 
 ### [UMD ECP (English Conversation Partners) Group Leader/Facilitator | February 2019 - Present](http://ecpumd.weebly.com/)
+
+This research paper is an analysis of how computer technology has evolved over time to improve system performance.  My research was mainly on RISC (Reduced Instruction Set Computer).  I studied the similarities and differences among RISC implementations over the past two decades. I emphasized the impact of pipelining, cache memory, and virtual memory on system performance improvement when implemented with RISC.
