@@ -29,7 +29,7 @@ This program uses Python Flask with HTML to create a log in webpage that prompts
 ### [Parser & GUI Generator Application](./Parser&GUIGenerator) (Java)
 #### CMSC 330 Advanced Programming Languages
 
-This Java program uses recursive descent to parse a GUI definition language defined in an input file. After parsing, it generates the GUI that the language defines. When parsing, ensures that the language in the input file is properly formatted (looking at tokens returned from LexicalAnalyzer.java), then applies the information to the GUI as components.
+Written in Java, this program uses recursive descent to parse a GUI definition language defined in an input file.  During parsing, the program ensures that the input language is properly formatted via a Lexical Analyzer.  After parsing, the program will generate the appropriate GUI defined by the input language.
 
 ## Technical Papers
 
