@@ -52,7 +52,7 @@ This research paper is an analysis of how computer technology has evolved over t
 
 ### [DC-Baltimore Perl Workshop | April 2019](https://dcbpw.org/dcbpw2020/)
 
-At this Workshop, I sat in on in-depth talks about the basics, history, applications, and technological potential of Perl language.
+The Perl Workshop provides in-depth talks about the Perl language: starting with the basics of the language, its history, its applications over the years, and ending with the potential of the Perl language in today's technology.
 
 ## Volunteer Work
 
