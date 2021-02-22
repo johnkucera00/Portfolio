@@ -37,7 +37,7 @@ This program creates a traffic simulation GUI. We begin with 3-5 traffic lights 
 
 Built 5 PCs using this manual.
 
-### [Evolution of System Performance](./SystemPerformance-ResearchPaper.pdf) 
+### [Evolution of System Performance](./SystemPerformance-ResearchPaper.pdf) (Research)
 #### CMIS 310 Computer Systems and Architecture
 
 ## Workshop
