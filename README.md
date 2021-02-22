@@ -46,7 +46,7 @@ This in-depth manual to building a PC from scratch contains steps for installing
 ### [Evolution of System Performance](./SystemPerformance-ResearchPaper.pdf) (Research)
 #### CMIS 310 Computer Systems and Architecture
 
-This research paper is an analysis of how computer technology has evolved over time to improve system performance.  My research was mainly on RISC (Reduced Instruction Set Computer).  I studied the similarities and differences among RISC implementations over the past two decades. I emphasized the impact of pipelining, cache memory, and virtual memory on system performance improvement when implemented with RISC.
+This research paper is an analysis of how computer technology has evolved over time to improve system performance. My research was mainly on RISC (Reduced Instruction Set Computer). I studied the similarities and differences among RISC implementations over the past two decades. I emphasized the impact of pipelining, cache memory, and virtual memory on system performance improvement when implemented with RISC.
 
 ## Workshop
 
