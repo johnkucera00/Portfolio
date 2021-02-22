@@ -36,6 +36,8 @@ This Java program uses recursive descent to parse a GUI definition language defi
 ### [Vulnerability Memo for Security Devices](./VulnerabilityMemo.pdf)
 #### CMIT 320 Network Security
 
+I wrote a Vulnerability Memo on two IoT devices: a smart door lock and a smart security camera. I researched the devices by using the Common Vulnerabilities and Exposures (CVE) list and NIST’s National Vulnerability Database (NVD). These resources provided information about the devices that helped me identify the devices’ vulnerabilities (which involved their uses of insecure network protocols) and possible solutions to fix them.
+
 ### [PC Build Manual](./PCBuildManual.pdf) 
 #### CMIT 202 Fundamentals of Computer Troubleshooting
 
@@ -43,6 +45,8 @@ Built 5 PCs using this manual.
 
 ### [Evolution of System Performance](./SystemPerformance-ResearchPaper.pdf) (Research)
 #### CMIS 310 Computer Systems and Architecture
+
+I wrote a research paper analyzing how evolution of computer technology has improved system performance. I researched RISC and studied similarities and differences among its implementations over the past two decades. I also underlined the impact that pipelining, cache memory, and virtual memory had on system performance improvement when implemented with RISC.
 
 ## Workshop
 
