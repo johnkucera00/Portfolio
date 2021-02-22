@@ -16,8 +16,8 @@ Git, MS Excel, MS PowerPoint, Adobe Photoshop, MS Publisher
 
 ## Computer Science Projects
 
-### [Multi-threaded Traffic Simulation GUI](./Multi-threadedTrafficSimulationGUI) CMSC 335 Object-oriented and Concurrent Programming
-#### Java
+### [Multi-threaded Traffic Simulation GUI](./Multi-threadedTrafficSimulationGUI) (Java)
+#### CMSC 335 Object-oriented and Concurrent Programming
 
 This program creates a traffic simulation GUI. We begin with 3-5 traffic lights and 3-5 cars which are all threads. The cars travel in a straight line at random speeds, their positions get updated live via the GUI and animation. The cars will start and stop according to the traffic lights, which are yellow (slow down), green (go), and red (stop).
 
