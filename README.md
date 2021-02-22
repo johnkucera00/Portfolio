@@ -21,19 +21,24 @@ Git, MS Excel, MS PowerPoint, Adobe Photoshop, MS Publisher
 
 This program creates a traffic simulation GUI. We begin with 3-5 traffic lights and 3-5 cars which are all threads. The cars travel in a straight line at random speeds, their positions get updated live via the GUI and animation. The cars will start and stop according to the traffic lights, which are yellow (slow down), green (go), and red (stop).
 
-### [Python Flask - Login Validation Form Webpage](./LoginValidationWebpage) (Python/HTML) (SDEV 300 Building Secure Python Applications)
+### [Python Flask - Login Validation Form Webpage](./LoginValidationWebpage) (Python/HTML)
+#### SDEV 300 Building Secure Python Applications
 
-### [Parser & GUI Generator Application](./Parser&GUIGenerator) (Java) (CMSC 330 Advanced Programming Languages)
+### [Parser & GUI Generator Application](./Parser&GUIGenerator) (Java)
+#### CMSC 330 Advanced Programming Languages
 
 ## Technical Papers
 
-### [Vulnerability Memo for Security Devices](./VulnerabilityMemo.pdf) (CMIT 320 Network Security)
+### [Vulnerability Memo for Security Devices](./VulnerabilityMemo.pdf)
+#### CMIT 320 Network Security
 
-### [PC Build Manual](./PCBuildManual.pdf) (CMIT 202 Fundamentals of Computer Troubleshooting)
+### [PC Build Manual](./PCBuildManual.pdf) 
+#### CMIT 202 Fundamentals of Computer Troubleshooting
 
 Built 5 PCs using this manual.
 
-### [Evolution of System Performance](./SystemPerformance-ResearchPaper.pdf) (CMIS 310 Computer Systems and Architecture)
+### [Evolution of System Performance](./SystemPerformance-ResearchPaper.pdf) 
+#### CMIS 310 Computer Systems and Architecture
 
 ## Workshop
 
