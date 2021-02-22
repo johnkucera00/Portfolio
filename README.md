@@ -14,7 +14,7 @@ Netbeans, Visual Studio Code, Cloud9, Repl.it
 **Tools/Applications:**
 Git, MS Excel, MS PowerPoint, Adobe Photoshop, MS Publisher
 
-**OS**
+**OS:**
 Windows, Linux, MacOS
 
 ## Computer Science Projects
