@@ -41,7 +41,7 @@ This written assignment involves writing a Vulnerability Memo on two IoT devices
 ### [PC Build Manual](./PCBuildManual.pdf) 
 #### CMIT 202 Fundamentals of Computer Troubleshooting
 
-Wrote an in-depth manual to building a PC from scratch. It covers steps for installing essential hardware such as motherboard, CPU, RAM, power supply, hard drive, and peripherals. It also reviews BIOS settings that are necessary to configure. Additionally, it instructs the reader on how to install Windows and configure important settings such as Windows Backup and Windows Firewall. Visuals are included with each step. I have built 5 PCs using this manual.
+This in-depth manual to building a PC from scratch contains steps for installing essential hardware such as motherboard, CPU, RAM, power supply, hard drive, and peripherals. The manual reviews the necessary BIOS settings for system configuration, walks the reader through steps to install Windows, and instructs how to configure settings such as Windows Backup and Windows Firewall. I have built 5 PCs using this manual.
 
 ### [Evolution of System Performance](./SystemPerformance-ResearchPaper.pdf) (Research)
 #### CMIS 310 Computer Systems and Architecture
