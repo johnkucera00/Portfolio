@@ -16,9 +16,9 @@ Git, MS Excel, MS PowerPoint, Adobe Photoshop, MS Publisher
 
 ## Computer Science Projects
 
-### [Multi-threaded Traffic Simulation GUI](./Multi-threadedTrafficSimulationGUI) (Java)
+### [Multi-threaded Traffic Simulation GUI](./Multi-threadedTrafficSimulationGUI) (Java) (CMSC 335 Object-oriented and Concurrent Programming)
 
-
+This Java program constructs a GUI and live-updated animation that holds a Traffic Simulation. When run, 3 to 5 cars and 3 to 5 traffic lights are created as Threads and start running. When the cars run, they travel in a straight line at random speeds and their positions gets updated live in the GUI and animation. When the lights run, they change colors at fixed intervals. Cars will continue through green/yellow lights and stop at red lights.
 
 ### [Python Flask - Login Validation Form Webpage](./LoginValidationWebpage) (Python/HTML)
 
