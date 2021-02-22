@@ -26,7 +26,7 @@ MS Excel, MS PowerPoint, Adobe Photoshop, MS Publisher
 
 
 
-## Workshop Attended
+## Workshop
 
 ### [DC-Baltimore Perl Workshop | April 2019](https://dcbpw.org/dcbpw2020/)
 
