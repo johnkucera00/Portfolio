@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>John's Login Form</title>
+  </head>
+  <body>
+      <!--This div makes the form -->
+     <H3 style='color:red'> {{ error_msg }}</H3>
+     <div>
+        <form action="/process_login" method="post" role="form">
+          {{ form.csrf }}
+          <div class="form-group">
+            {{ form.username.label }}: {{ form.username }}
+            {{ form.csrf }}
+            {{ form.password.label }}: {{ form.password }}
+          </div>
+          <button type="submit" value="Submit">Submit</button>
+          <div><input type="reset" value="Clear Form"></div>
+        </form>
+     </div>
+  </body>
+</html>
