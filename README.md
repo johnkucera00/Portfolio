@@ -39,7 +39,7 @@ Written in Java, this program uses recursive descent to parse a GUI definition l
 ### [Vulnerability Memo for Security Devices](./VulnerabilityMemo.pdf)
 #### CMIT 320 Network Security (Fall 2020)
 
-This Vulnerability Memo reviews two IoT devices: a smart door lock and a smart security camera. Using CVE (Common Vulnerabilities and Exposures list) and NVD (NIST’s National Vulnerability Database), I first learned about the devices and their functions.  CVE and NVD helped me identify the devices’ vulnerabilities (their usage of insecure network protocols). Finally, in my paper, I suggested possible solutions to fix some of the weak points and strengthen the systems.
+This Vulnerability Memo reviews two IoT devices: a smart door lock and a smart security camera. Using CVE (Common Vulnerabilities and Exposures list) and NVD (NIST’s National Vulnerability Database), I first learned about the devices and their functions.  CVE and NVD helped me identify the devices’ vulnerabilities (their usage of insecure network protocols). Finally, I suggested possible solutions to fix some of the weak points and strengthen the systems.
 
 ### [PC Build Manual](./PCBuildManual.pdf) 
 #### CMIT 202 Fundamentals of Computer Troubleshooting (Fall 2020)
