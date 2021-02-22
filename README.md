@@ -18,6 +18,8 @@ Git, MS Excel, MS PowerPoint, Adobe Photoshop, MS Publisher
 
 ### [Multi-threaded Traffic Simulation GUI](./Multi-threadedTrafficSimulationGUI) (Java)
 
+
+
 ### [Python Flask - Login Validation Form Webpage](./LoginValidationWebpage) (Python/HTML)
 
 ### [Parser & GUI Generator Application](./Parser&GUIGenerator) (Java)
@@ -26,7 +28,7 @@ Git, MS Excel, MS PowerPoint, Adobe Photoshop, MS Publisher
 
 ### [Vulnerability Memo for Security Devices](./VulnerabilityMemo.pdf)
 
-### [PC Build Manual](./PCBuildManual.pdf)
+### [PC Build Manual](./PCBuildManual.pdf) (Built 5 PCs using this manual)
 
 ### [Evolution of System Performance](./SystemPerformance-ResearchPaper.pdf) (Research)
 
