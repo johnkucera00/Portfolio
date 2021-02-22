@@ -56,4 +56,4 @@ This research paper is an analysis of how computer technology has evolved over t
 
 ### [UMD ECP (English Conversation Partners) Group Leader/Facilitator | February 2019 - Present](http://ecpumd.weebly.com/)
 
-Lead English conversation classes between groups of international students and families at the University of Maryland, College Park. The weekly class includes English learning exercises and conversation topics that will help strengthen their English-speaking skills. Held many virtual sessions using Google Meet.
+I volunteer to lead English conversation classes between groups of international students and families at the University of Maryland, College Park. The weekly class includes English learning exercises and conversation topics that will help strengthen their English-speaking skills. Held many virtual sessions using Google Meet.
