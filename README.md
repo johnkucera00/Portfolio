@@ -28,7 +28,9 @@ Git, MS Excel, MS PowerPoint, Adobe Photoshop, MS Publisher
 
 ### [Vulnerability Memo for Security Devices](./VulnerabilityMemo.pdf)
 
-### [PC Build Manual](./PCBuildManual.pdf) (Built 5 PCs using this manual)
+### [PC Build Manual](./PCBuildManual.pdf)
+
+Built 5 PCs using this manual.
 
 ### [Evolution of System Performance](./SystemPerformance-ResearchPaper.pdf) (Research)
 
