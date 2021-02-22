@@ -56,4 +56,4 @@ This research paper is an analysis of how computer technology has evolved over t
 
 ### [UMD ECP (English Conversation Partners) Group Leader/Facilitator | February 2019 - Present](http://ecpumd.weebly.com/)
 
-This research paper is an analysis of how computer technology has evolved over time to improve system performance.  My research was mainly on RISC (Reduced Instruction Set Computer).  I studied the similarities and differences among RISC implementations over the past two decades. I emphasized the impact of pipelining, cache memory, and virtual memory on system performance improvement when implemented with RISC.
+Lead English conversation classes between groups of international students and families at the University of Maryland, College Park. The weekly class includes English learning exercises and conversation topics that will help strengthen their English-speaking skills. Held many virtual sessions using Google Meet.
