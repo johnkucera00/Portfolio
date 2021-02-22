@@ -26,6 +26,12 @@ Attended DC-Baltimore Perl Workshop in April 2019.
 
 ### (Java) [Parser & GUI Generator Application](./Parser&GUIGenerator)
 
+## Technical Research Papers
+
+
+
 ## Volunteer Work & Events Attended
 
 ### [UMD ECP (English Conversation Partners) Group Leader/Facilitator](http://ecpumd.weebly.com/)
+
+### [Attended DC-Baltimore Perl Workshop in April 2019]()
