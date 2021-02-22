@@ -20,5 +20,5 @@ Attended DC-Baltimore Perl Workshop in April 2019.
 
 ## Computer Science Projects
 
-**(Java) [Multi-threaded Traffic Simulation GUI:](./Multi-threaded Traffic Simulation GUI)**
+### (Java) [Multi-threaded Traffic Simulation GUI:](./MulMulti-threadedTrafficSimulationGUI)
 
