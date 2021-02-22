@@ -58,4 +58,4 @@ At this Workshop, I sat in on in-depth talks about the basics, history, applicat
 
 ### [UMD ECP (English Conversation Partners) Group Leader/Facilitator | February 2019 - Present](http://ecpumd.weebly.com/)
 
-I volunteer to lead English conversation classes between groups of international students and families at the University of Maryland, College Park. The weekly class includes English learning exercises and conversation topics that will help strengthen their English-speaking skills. Held many virtual sessions using Google Meet.
+ECP is a program where facililators such as myself volunteer to hold weekly conversation sessions with UMD international students and their families. The weekly meetups include English learning exercises (vocabulary, common expressions, slang) and conversations to gain confidence in speaking English. Normally I would have a classroom of 3-5 students. For the last 2 semesters, I have been using Google Meet to meet virtually with my students. For Spring 2021, there are 5 students in my session.
