@@ -26,8 +26,10 @@ MS Excel, MS PowerPoint, Adobe Photoshop, MS Publisher
 
 
 
-## Volunteer Work & Events Attended
-
-### [UMD ECP (English Conversation Partners) Group Leader/Facilitator | February 2019 - Present](http://ecpumd.weebly.com/)
+## Workshop Attended
 
 ### [DC-Baltimore Perl Workshop | April 2019](https://dcbpw.org/dcbpw2020/)
+
+## Volunteer Work
+
+### [UMD ECP (English Conversation Partners) Group Leader/Facilitator | February 2019 - Present](http://ecpumd.weebly.com/)
