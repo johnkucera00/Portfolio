@@ -19,7 +19,7 @@ Git, MS Excel, MS PowerPoint, Adobe Photoshop, MS Publisher
 ### [Multi-threaded Traffic Simulation GUI](./Multi-threadedTrafficSimulationGUI) (Java)
 #### CMSC 335 Object-oriented and Concurrent Programming
 
-Written in Java, this program uses multithreading to create a traffic simulation GUI and animation. Up to 5 cars travel in a straight line at random speeds and their positions are represented as (x,y) coordinates and animated in the GUI. The cars will move between 3-5 traffic lights, and they will start and stop according to the lights- yellow (slow down), green (go), and red (stop).
+Written in Java, this program uses multithreading to create a traffic simulation GUI and animation. Up to 5 cars travel in a straight line at random speeds and their positions are represented as (x,y) coordinates and animated in the GUI. The cars will move between 3-5 traffic lights, and they will start and stop according to the lights: green/yellow (go) and red (stop).
 
 ### [Python Flask - Login Validation Form Webpage](./LoginValidationWebpage) (Python/HTML)
 #### SDEV 300 Building Secure Python Applications
