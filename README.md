@@ -21,7 +21,7 @@ Git, MS Excel, MS PowerPoint, Adobe Photoshop, MS Publisher
 
 Written in Java, this program uses multithreading to create a traffic simulation GUI and animation. Up to 5 cars travel in a straight line at random speeds and their positions are represented as (x,y) coordinates and animated in the GUI. The cars will move between 3-5 traffic lights, and they will start and stop according to the lights: green/yellow (go) and red (stop).
 
-### [Python Flask - Login Validation Form Webpage](./LoginValidationWebpage) (Python/HTML)
+### [Login Validation Form Webpage](./LoginValidationWebpage) (Python/HTML)
 #### SDEV 300 Building Secure Python Applications
 
 This program uses Python Flask with HTML to create a log in webpage that prompts the user for username and password before granting access. Client is allowed 15 attempts to log in, after which throttling will occur to block the IP address for a period of time before allowing for retries. Exception handling and maintenance of a database of user information/IP addresses are utilized to process user inputs.
