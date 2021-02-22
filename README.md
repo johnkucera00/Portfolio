@@ -13,3 +13,8 @@ Netbeans, Visual Studio Code, Cloud9, Repl.it
 
 **Other Technical Applications I have experience with:**
 MS Excel, MS PowerPoint, Adobe Photoshop, MS Publisher
+
+**Volunteer Work/Events Attended:**
+UMD ECP (English Conversation Partners) Group Leader/Facilitator.
+Attended DC-Baltimore Perl Workshop in April 2019.
+
