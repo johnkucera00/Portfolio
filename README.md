@@ -1,5 +1,5 @@
 # Portfolio
-Examples of my Coding projects and Written Assignments for Computer Science/IT Classes.
+Examples of my Coding projects and Technical Papers for Computer Science/IT Classes.
 
 My name is John Kucera. I am an undergraduate Computer Science major and Cybersecurity minor attending the University of Maryland Global Campus. My expected graduation date is May 2022. My current GPA is 4.0.
 
