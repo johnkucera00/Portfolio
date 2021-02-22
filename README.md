@@ -41,7 +41,7 @@ This Vulnerability Memo reviews two IoT devices: a smart door lock and a smart s
 ### [PC Build Manual](./PCBuildManual.pdf) 
 #### CMIT 202 Fundamentals of Computer Troubleshooting
 
-This in-depth manual to building a PC from scratch contains steps for installing essential hardware such as motherboard, CPU, RAM, power supply, hard drive, and peripherals. The manual reviews the necessary BIOS settings for system configuration, walks the reader through steps to install Windows, and instructs how to configure settings such as Windows Backup and Windows Firewall. I have built 5 PCs using this manual.
+This in-depth manual to building a PC from scratch contains steps for installing essential hardware such as motherboard, CPU, RAM, power supply, hard drive, and peripherals. The manual reviews the necessary BIOS settings for system configuration, walks the reader through steps to install Windows, and instructs how to configure settings such as Windows Backup and Windows Firewall. I have built 5 PCs in the past and created this manual to help build more.
 
 ### [Evolution of System Performance](./SystemPerformance-ResearchPaper.pdf) (Research)
 #### CMIS 310 Computer Systems and Architecture
