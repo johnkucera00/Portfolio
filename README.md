@@ -28,7 +28,7 @@ Git, MS Excel, MS PowerPoint, Adobe Photoshop, MS Publisher
 
 ### [PC Build Manual](./PCBuildManual.pdf)
 
-### [Evolution of System Performance](./SystemPerformanceResearchPaper.pdf) (Research)
+### [Evolution of System Performance](./SystemPerformance-ResearchPaper.pdf) (Research)
 
 ## Workshop
 
