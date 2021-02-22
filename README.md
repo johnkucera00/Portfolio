@@ -24,7 +24,7 @@ MS Excel, MS PowerPoint, Adobe Photoshop, MS Publisher
 
 ## Technical Research Papers
 
-
+### [Vulnerability Memo for Security Devices](./VulnerabilityMemo.pdf)
 
 ## Workshop
 
