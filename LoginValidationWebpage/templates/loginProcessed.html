@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Login Processed</title>
+  </head>
+  <body>
+    <div>You successfully logged in.</div>
+    <br>
+      <!--This div makes the form -->
+     <div>
+        <form action="/update_password" method="post" role="form">
+          {{ form.csrf }}
+          <div class="form-group">
+            {{ form.username.label }}: {{ username_data }}
+            {{ form.csrf }}
+            {{ form.password.label }}: {{ password_data }}
+          </div>
+          <br>
+          <div>Would you like to change your password?</div>
+          <button type="submit" value="Submit">update password</button>
+        </form>
+     </div>
+  </body>
+</html>
