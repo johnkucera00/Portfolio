@@ -14,6 +14,9 @@ Netbeans, Visual Studio Code, Cloud9, Repl.it
 **Tools/Applications:**
 Git, MS Excel, MS PowerPoint, Adobe Photoshop, MS Publisher
 
+**OS**
+Windows, Linux, MacOS
+
 ## Computer Science Projects
 
 ### [Multi-threaded Traffic Simulation GUI](./Multi-threadedTrafficSimulationGUI) (Java)
