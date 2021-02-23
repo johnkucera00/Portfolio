@@ -53,7 +53,7 @@ This research paper is an analysis of how computer technology has evolved over t
 
 ## Workshop
 
-### [DC-Baltimore Perl Workshop | April 2019](https://dcbpw.org/dcbpw2020/)
+### [DC-Baltimore Perl Workshop | April 2019](https://dcbpw.org/dcbpw2019/)
 
 The Perl Workshop provides in-depth talks about the Perl language: starting with the basics of the language, its history, its applications over the years, and ending with the potential of the Perl language in today's technology.
 
