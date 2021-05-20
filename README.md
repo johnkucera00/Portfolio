@@ -6,7 +6,7 @@ My name is John Kucera. I am an undergraduate Computer Science major and Cyberse
 ## Technical Skills & Abilities
 
 **Languages/Web Technology:**
-Java, Python, Python Flask, C++, HTML, CSS, C, some SQL, some Perl
+Java, Python, Python Flask, C/C++, HTML, CSS, Lex/Yacc (Linux), some SQL, some Perl
 
 **IDEs:**
 Netbeans, Visual Studio Code, Cloud9, Repl.it
