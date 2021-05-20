@@ -32,7 +32,7 @@ This program uses Python Flask with HTML to create a log in webpage that prompts
 ### [Mini Compiler](./MiniCompiler) (Flex/Bison/C++)
 #### CMSC 330 Advanced Programming Languages (Spring 2020)
 
-Written in C++ using two Linux tools: Flex, which generates lexical analyzers, and Bison, which generates parsers. Accepts input programs written in a custom-made language and compiles them. I wrote the compiler in four separate parts:
+Written in C++ using two Linux tools: Flex, which generates lexical analyzers, and Bison, which generates parsers. Accepts input programs written in a custom language and compiles them. I wrote the compiler in four separate parts:
   * Lexical Analyzer: Breaks the syntaxes of the input program into tokens. Checks for invalid characters.
   * Syntax Analyzer: Takes token streams from lexical analyzer and checks for syntax errors.
   * Interpreter: Executes instructions from input program. Accepts function parameters as command line arguments.
