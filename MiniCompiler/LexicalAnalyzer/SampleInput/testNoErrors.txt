@@ -1,0 +1,12 @@
+-- This tests having no errors.
+// Second type of comment
+
+function cubevolume s: real returns boolean;
+     volume: integer is s ** 3;
+begin
+     if volume >= 100.0 and volume <= 200.0 then
+          true;
+     else
+          false;
+     endif;
+end;

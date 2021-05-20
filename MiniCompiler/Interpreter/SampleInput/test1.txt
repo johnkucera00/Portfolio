@@ -1,0 +1,12 @@
+-- This tests boolean literal evaluation, if expression evaluation.
+
+function test1 a: real returns boolean;
+	b: boolean is true;
+	c: boolean is false;
+begin
+	if a > 50.1 then
+		b;
+	else
+		c;
+	endif;
+end;

@@ -1,0 +1,12 @@
+-- This tests multiple grammar productions in parser.y.
+// Second type of comment
+
+function testproductions2 a: boolean, b: real returns integer;
+	the_var: boolean is false;
+begin
+	if the_var = a then
+		3;
+	else
+		4;
+	endif;
+end;

@@ -1,0 +1,12 @@
+-- This tests a single syntactical error.
+// Second type of comment
+
+function main my_var: real returns boolean;
+	my_var2: real is 2.11E5;
+begin
+	if my_var /= my_var2 then
+		my_var > ;
+	else
+		90.1;
+	endif;
+end; 

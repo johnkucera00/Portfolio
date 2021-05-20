@@ -1,0 +1,46 @@
+-- This tests nested conditional statements, relation operators, logical operators, multiple parameters, and reduction evaluation.
+
+function test3 a: integer, b: integer returns integer;
+	c: integer is 10;
+begin
+	case a is
+		when 1 => 
+			if a < b and b > c then
+				1.1;
+			else
+				2.2;
+			endif;
+		when 2 =>
+			if b >= c or b <= a then
+				3.3;
+			else
+				4.4;
+			endif;
+		when 3 =>
+			if a /= b then
+				5.5;
+			else
+				6.6;
+			endif;
+		when 4 =>
+			if not (a = b) then
+				7.7;
+			else
+				8.8;
+			endif;
+		when 5 =>
+			reduce +
+				20;
+				6;
+				10;
+			endreduce;
+		when 6 =>
+			reduce *
+				2;
+				90;
+				10;
+			endreduce;
+		others =>
+			100;
+	endcase;
+end;

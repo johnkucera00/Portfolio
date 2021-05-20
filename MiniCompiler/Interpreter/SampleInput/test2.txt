@@ -1,0 +1,13 @@
+-- This tests real evaluation, arithmetic operators, case expression evaluation, multiple variables.
+
+function test2 a: integer returns real;
+	b: real is 13.1 + 7.77;
+	c: real is 87.2 - 10.1;
+	d: real is 55.5 / 11.1;
+begin
+	case a is
+		when 1 => b * 4.5;
+		when 2 => c * (17.5 rem 6.0);
+		others => d ** 2;
+	endcase;
+end;

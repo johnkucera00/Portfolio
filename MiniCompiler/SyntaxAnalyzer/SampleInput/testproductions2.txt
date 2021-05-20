@@ -1,0 +1,11 @@
+-- This tests multiple grammar productions in parser.y.
+// Second type of comment
+
+function testproductions2 returns real;
+begin
+	reduce *
+		6.8E5 + 8.8E9;
+		4.1E3 ** (4.1E6);
+		(8.7E1 / 23.1E-90);
+	endreduce;
+end;

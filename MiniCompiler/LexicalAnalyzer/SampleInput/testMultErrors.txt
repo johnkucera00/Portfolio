@@ -1,0 +1,13 @@
+-- This tests multiple errors on one line.
+// Second type of comment
+
+function testLexemes x: integer returns integer;
+	_var is x & 6;
+	var_ is x ^ 9;
+begin
+	if x >= 0 then
+		x - x;
+	else
+		x [ _var;
+	endif;
+end;

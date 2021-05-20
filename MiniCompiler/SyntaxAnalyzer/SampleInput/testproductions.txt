@@ -1,0 +1,42 @@
+-- This tests multiple grammar productions in parser.y.
+// Second type of comment
+
+function testproductions a: integer returns boolean;
+	my_var: real is 7.8E-3;
+	my_var2: real is 5.1E11;
+	b: integer is 10 * a / 2 + 4 - a ** 2;
+	c: integer is 7 rem 9;
+begin
+	case a is
+		when 1 =>
+			if a < b and a > c then
+				true;
+			else
+				false;
+			endif;
+		when 2 =>
+			if b >= a or b <= c then
+				true;
+			else
+				false;
+			endif;
+		when 3 =>
+			if not a /= b then
+				true;
+			else
+				false;
+			endif;
+		when 4 =>
+			if a = b then
+				true;
+			else
+				false;
+			endif;
+		when 5 =>
+			reduce +
+				true;
+			endreduce;
+		others =>
+			false;
+	endcase;
+end;
