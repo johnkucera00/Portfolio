@@ -55,6 +55,16 @@ This in-depth manual to building a PC from scratch contains steps for installing
 
 This research paper is an analysis of how computer technology has evolved over time to improve system performance. My research was mainly on RISC (Reduced Instruction Set Computer). I studied the similarities and differences among RISC implementations over the past two decades. I emphasized the impact of pipelining, cache memory, and virtual memory on system performance improvement when implemented with RISC.
 
+## Experience
+### INTERNSHIP | National Institute of Standards and Technology (NIST) | Summer 2021
+### Summer Undergraduate Research Fellowship (SURF) | Information Technology Laboratory
+
+  * Experimented with software tools that quantified the uncertainty caused by floating-point approximation errors. The tools I studied were CADNA, Verrou, and Verificarlo, which each have their own methods of estimating and analyzing round-off errors in floating-point arithmetic.
+  * Tested these tools by linking them to a biological neural simulator that used floating-point arithmetic. In my trials, I modified the C/C++ code and parameters of the software tools and neural simulator to explore different scenarios. 
+  * Illustrated findings by creating Python scripts to parse through and graph the simulator results to be used in my final presentation.
+  * Wrote an abstract and gave a 10-minute presentation where I discussed the purpose and findings of my research.
+  * Collaborated with researchers from James Madison University who offered their own biological neural simulator. I linked it with the CADNA tool to observe how the floating-point output would be affected and graphed these results using Python scripts. 
+
 ## Workshop
 
 ### [DC-Baltimore Perl Workshop | April 2019](https://dcbpw.org/dcbpw2019/)
