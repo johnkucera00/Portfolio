@@ -30,7 +30,7 @@ Written in Java, this program uses multithreading to create a traffic simulation
 This program uses Python Flask with HTML to create a log in webpage that prompts the user for username and password before granting access. Client is allowed 15 attempts to log in, after which throttling will occur to block the IP address for a period of time before allowing for retries. Exception handling and maintenance of a database of user information/IP addresses are utilized to process user inputs.
 
 ### [Mini Compiler](./MiniCompiler) (Flex/Bison/C++)
-#### CMSC 430 Advanced Programming Languages (Spring 2020)
+#### CMSC 430 Advanced Programming Languages (Spring 2021)
 
 Written in C++ using two Linux tools: Flex, which generates lexical analyzers, and Bison, which generates parsers. Accepts input programs written in a custom language and compiles them. I wrote the compiler in four separate parts:
   * Lexical Analyzer: Breaks the syntaxes of the input program into tokens. Checks for invalid characters.
