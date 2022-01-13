@@ -12,7 +12,7 @@ Java, Python, Python Flask, C/C++, JavaScript, HTML, CSS, Lex/Yacc (Linux), some
 Netbeans, Visual Studio Code, Cloud9, Repl.it
 
 **Tools/Applications:**
-Git, MS Excel, MS PowerPoint, Adobe Photoshop, MS Publisher
+Git, AWS, MS Excel, MS PowerPoint, Adobe Photoshop, MS Publisher
 
 **OS:**
 Windows, Linux, MacOS
