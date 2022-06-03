@@ -1,7 +1,7 @@
 # Portfolio
 Examples of my Coding projects and Technical Papers for Computer Science/IT Classes.
 
-My name is John Kucera. I am a Computer Science Graduate (Minor in Cybersecurity) with a Bachelor of Science Degree from University of Maryland Global Campus. I graduated in May 2022 with a GPA of 4.0.
+My name is John Kucera. I am a Computer Science/Cybersecurity Graduate (Minor in Cybersecurity) with a Bachelor of Science Degree from University of Maryland Global Campus. I graduated in May 2022 with a GPA of 4.0.
 
 ## Technical Skills & Abilities
 
