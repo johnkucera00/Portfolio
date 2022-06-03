@@ -1,18 +1,18 @@
 # Portfolio
 Examples of my Coding projects and Technical Papers for Computer Science/IT Classes.
 
-My name is John Kucera. I am an undergraduate Computer Science major and Cybersecurity minor attending the University of Maryland Global Campus. My expected graduation date is May 2022. My current GPA is 4.0.
+My name is John Kucera. I am a Computer Science Graduate (Minor in Cybersecurity) with a Bachelor of Science Degree from University of Maryland Global Campus. I graduated in May 2022 with a GPA of 4.0.
 
 ## Technical Skills & Abilities
 
 **Languages/Web Technology:**
-Java, Python, Python Flask, C/C++, JavaScript, HTML, CSS, Lex/Yacc (Linux), some SQL, some Perl
+Java, Python, Python Flask, C/C++, JavaScript, SQL/MySQL, HTML, CSS, Lex/Yacc (Linux), some Perl
 
 **IDEs:**
 Netbeans, Visual Studio Code, Cloud9, Repl.it
 
 **Tools/Applications:**
-Git, AWS, MS Excel, MS PowerPoint, Adobe Photoshop, MS Publisher
+Git, AWS, MS Excel, MS Access, Oracle SQL Developer, Putty, Adobe Photoshop, MS Publisher
 
 **OS:**
 Windows, Linux, MacOS
@@ -73,6 +73,6 @@ The Perl Workshop provides in-depth talks about the Perl language: starting with
 
 ## Volunteer Work
 
-### [UMD ECP (English Conversation Partners) Group Leader/Facilitator | February 2019 - Present](http://ecpumd.weebly.com/)
+### [UMD ECP (English Conversation Partners) Group Leader/Facilitator | February 2019 - December 2021](http://ecpumd.weebly.com/)
 
-ECP is a program where facilitators such as myself volunteer to hold weekly conversation sessions with UMD international students and their families. The weekly meetups include English learning exercises (vocabulary, common expressions, slang) and conversations to gain confidence in speaking English. Normally I would have a classroom of 3-5 students. For the last 2 semesters, I have been using Google Meet to meet virtually with my students. For Spring 2021, there are 5 students in my session.
+ECP is a program where facilitators such as myself volunteer to hold weekly conversation sessions with UMD international students and their families. The weekly meetups include English learning exercises (vocabulary, common expressions, slang) and conversations to gain confidence in speaking English. Normally,  I had a classroom of 3-5 students. In the latter half of my sessions, I used Google Meet to meet virtually with my students.
